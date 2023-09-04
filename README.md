@@ -1,0 +1,1 @@
+# blockeShop-static-hard-code
