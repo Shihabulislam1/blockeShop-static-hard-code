@@ -1,1 +1,1 @@
-# blockeShop-static-hard-code
+# blockeshop
